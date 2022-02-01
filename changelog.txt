@@ -54,6 +54,7 @@ Fixed Options Menu
 Made rating system reset after the end of each song
 Added Controls Menu
 Changed:
+Made you lose 10 score per miss
 Made the credit actually move around
 Adjusted where the score text was
 Adjusted where the rating text is
