@@ -1,0 +1,61 @@
+Beta 0.1: (Jan 29, 2022)
+New Features:
+Fixed Freeplay.
+Added Options Menu
+Changed:
+Nothing
+
+Beta 0.2: (Jan 29, 2022)
+New Features:
+Add sections to options menu. (Such as Gameplay, Visuals, Graphics etc)
+Changed:
+Fixed option menu bugs.
+
+Beta 0.3: (Jan 29, 2022)
+New Features:
+Made Gameplay options menu functional
+Added Version Checker
+Changed:
+Nothing
+
+Beta 0.3.1: (Jan 30, 2022)
+New Features:
+None
+Changed:
+Fixed Version Checker.
+Disabled options menu (as it kept soft locking the game)
+
+Beta 0.4: (Jan 31, 2022)
+New Features:
+Added Ghost Tapping (off by default)
+Added Rating System. (FC, None)
+Added Misses system.
+Changed:
+Fixed Outdated message
+Beta 0.4.1: (Jan 31, 2022)
+New Features:
+Added accuracy system.
+Shows combo.
+Added new types of ratings (PFC, SDCB, Clear, GFC, SFC)
+Changed:
+Ghost tapping is now on by default
+Made version checker bring you to actual download link
+
+Beta 0.4.2: (Feb 1, 2022)
+New Features:
+Added Extra's Menu
+Changed:
+Make Accuracy system off by default (it's very buggy right now)
+
+Beta 0.5 (Feb 1, 2022)
+New Features:
+Added Credits Menu
+Fixed Options Menu
+Made rating system reset after the end of each song
+Added Controls Menu
+Changed:
+Made the credit actually move around
+Adjusted where the score text was
+Adjusted where the rating text is
+
+Beta 0.5 is the latest version
